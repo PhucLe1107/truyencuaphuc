@@ -26,7 +26,7 @@
       </div>
       
       <div class="footer-bottom">
-        <p>&copy; 2024 Truyện Của Phúc. Tất cả quyền được bảo lưu.</p>
+        <p>&copy; 2026 Truyện Của Phúc. Sản phẩm chỉ nhằm mục đích học tập và giải trí</p>
       </div>
     </div>
   </footer>
